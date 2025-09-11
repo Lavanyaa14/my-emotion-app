@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+node_modules/
+.env
+*.pyc
+ml\data\raw\
+ml\data\processed\
